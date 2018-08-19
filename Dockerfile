@@ -1,0 +1,3 @@
+FROM tomcat8
+
+ENTRYPOINT=
